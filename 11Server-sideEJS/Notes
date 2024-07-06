@@ -1,0 +1,18 @@
+install ejs from npm
+npm i ejs
+app.set("view engine", "ejs");
+create a views folder
+create a view index.ejs
+load the html in the  place of the res.send to render any page from views folder
+
+
+from jab bhi  submit karoge pahli cheej ye dekhiye ki saari fiels ke pass name property hai ya nahi
+from ke pass action hai ya nahibackend ke pass route hai ya nahi
+backend ke pass route hai ya nahi
+wo route ka type sahi hai ya nahi
+route ke ander aapka data unke type ke hisaab se milega
+     GET - req.query
+     POST - req.body
+
+
+post data ko samajhne ke liye 

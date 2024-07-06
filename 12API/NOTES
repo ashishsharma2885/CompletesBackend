@@ -1,0 +1,4 @@
+GET - server se kuch lana
+POST - server par kuch change hoga, is aspect mein ki kuch create hoga, ya fir establish hoga
+PUT - update karne ke liye, poora replace karta hai
+PATCH - update karne ke liye, poora replace nahi karta hai, ye dirf wo change karta hai jo chage hoga

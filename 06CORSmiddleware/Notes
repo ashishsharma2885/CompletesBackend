@@ -1,0 +1,6 @@
+Cors -
+browsers mein ek security features hota hai, jiske tahat app kisi aur web domain ka data nhi manga
+skte ya show nai kr skte hai and browser isse aapko rokta hai, ab agar app chaahte hai ki browser allow 
+kare data ko lane ke liye, to fir aapko us website ke server ke through CORS enable krna padega
+
+sheryians.com
